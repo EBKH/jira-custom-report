@@ -1,0 +1,26 @@
+{
+	"name": "YOUR APP NAME",
+	"description": "SOMETHING ABOUT WHAT YOUR APP DO",
+	"key": "BE.SURE.IS.SOMETHING.UNIQUE",
+	"baseUrl": "https://WHERE/THE/APP/IS/LOCATED",
+	"vendor": {
+			"name": "YOUR VENDOR NAME",
+			"url": "YOUR WEBSITE"
+	},
+	"authentication": {
+			"type": "none"
+	},
+	"apiVersion": 1,
+	"modules": {
+			"generalPages": [
+					{
+							"url": "/",
+							"key": "YOURAPPNAME",
+							"location": "system.top.navigation.bar",
+							"name": {
+									"value": "YOURAPPNAME"
+							}
+					}
+			]
+	}
+}
