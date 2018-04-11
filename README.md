@@ -8,4 +8,5 @@ On `.config.php` you may declare any particular behaviour
 * `$categories` Specifies which proyect's categories will be taken in mind for the report
 * `$legacy` and `$on_hold` Specifies a status that is decided manually
 
+
 Any request, I'll be happy to help :)
